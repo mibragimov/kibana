@@ -256,6 +256,9 @@ function EditorUI({ initialTextValue }: EditorProps) {
                 })}
               >
                 <EuiIcon type="playFilled" />
+                <EuiIcon type="playFilled" />
+                <EuiIcon type="playFilled" />
+                <EuiIcon type="playFilled" />
               </EuiLink>
             </EuiToolTip>
           </EuiFlexItem>
